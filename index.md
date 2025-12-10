@@ -34,4 +34,4 @@
 - エイブルネットワーク会津若松店
 - 浅沼産業(株)
 ## リンク集
-- [寮・アパート](https://u-aizu.ac.jp/campus/apartment/)
+- [寮・アパート | 大学公式](https://u-aizu.ac.jp/campus/apartment/)
