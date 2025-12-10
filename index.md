@@ -14,11 +14,14 @@
 ## 会津大学生向けアパート
 - [インテリジェント・ドーミトリー会津 | SLSのWebページ](http://www.gakushoku.com/info_house.php)
 
-## 不動産取引業者
+## 不動産取引業者情報
+（□）：会津若松駅近くの店
+
+### 不動産取引業者（学校の紹介資料に記載あり）
 - [ササ企画](https://r.goope.jp/sasakikaku21/)：一級建築士、73歳。学生アパート、ブルーベリージャム販売
 - [有限会社ピアホーム](http://www.piahome.co.jp/)
 - ピタットハウス会津店
-- [(株)不動産信託リサーチ](https://www.fudousan-sintakuresearch.co.jp/rent/search)
+- [(株)不動産信託リサーチ](https://www.fudousan-sintakuresearch.co.jp/rent/search)（□）
 - (有)あゆみ産業
 - (有)佐賀工務所
 - (株)堀内不動産
@@ -28,10 +31,15 @@
 - レントライフ会津若松店
 - 協和不動産(株)
 - ツルカメ建設(株)
-- [会津土地建物(株)](https://www.athome.co.jp/ahsd/aizutochitatemono.html)
+- [会津土地建物(株)](https://www.athome.co.jp/ahsd/aizutochitatemono.html)（□）
 - (株)あいすむ
-- (株)ユミタライフサポートサービス アパマンショップ会津若松店
-- エイブルネットワーク会津若松店
+- (株)ユミタライフサポートサービス アパマンショップ会津若松店（□）
+- エイブルネットワーク会津若松店（□）
 - 浅沼産業(株)
+
+### 不動産取引業者（学校の紹介資料に記載なし）
+- いい部屋ネット会津駅前店（□）
+- レオパレスパートナーズ会津店（□）
+  
 ## リンク集
 - [寮・アパート | 大学公式](https://u-aizu.ac.jp/campus/apartment/)
