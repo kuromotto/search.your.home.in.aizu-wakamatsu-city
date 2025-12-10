@@ -2,6 +2,7 @@
 
 ## 創明寮入居者募集情報
 - [創明寮入居者募集情報](https://u-aizu.ac.jp/campus/apartment/somei-house/)
+  - 推薦型の募集人数は男子14名、女子3名程度
 
 ### 推薦入学者向け応募情報
 - 応募締切：2025/12/26 (金) 必着 （郵送）
@@ -14,20 +15,20 @@
 - [インテリジェント・ドーミトリー会津 | SLSのWebページ](http://www.gakushoku.com/info_house.php)
 
 ## 不動産取引業者
-- ササ企画
-- 有限会社ピアホーム
+- [ササ企画](https://r.goope.jp/sasakikaku21/)：一級建築士、73歳。学生アパート、ブルーベリージャム販売
+- [有限会社ピアホーム](http://www.piahome.co.jp/)
 - ピタットハウス会津店
-- (株)不動産信託リサーチ
+- [(株)不動産信託リサーチ](https://www.fudousan-sintakuresearch.co.jp/rent/search)
 - (有)あゆみ産業
 - (有)佐賀工務所
 - (株)堀内不動産
-- (株)ワハハ不動産
+- [(株)ワハハ不動産](https://www.athome.co.jp/ahsd/wahahafudosan.html)
 - ワカガス保険不動産(株)
 - (有)会津地産
 - レントライフ会津若松店
 - 協和不動産(株)
 - ツルカメ建設(株)
-- 会津土地建物(株)
+- [会津土地建物(株)](https://www.athome.co.jp/ahsd/aizutochitatemono.html)
 - (株)あいすむ
 - (株)ユミタライフサポートサービス アパマンショップ会津若松店
 - エイブルネットワーク会津若松店
