@@ -36,9 +36,9 @@
 - レントライフ会津若松店
 - 協和不動産(株)
 - ツルカメ建設(株)
-- [会津土地建物（ハウスメイトネットワーク）会津土地建物]（https://www.aizutochitatemono.co.jp/)（30+）
+- [会津土地建物（ハウスメイトネットワーク）会津土地建物](https://www.aizutochitatemono.co.jp/)（30+）
   - 定休日：日曜・祝日・第2第3土曜 年末年始・GW・夏季 
-- [会津土地建物(株)](https://www.athome.co.jp/ahsd/aizutochitatemono.html)（□）
+- [会津土地建物(株) アットホーム系列](https://www.athome.co.jp/ahsd/aizutochitatemono.html)（□）
 - (株)あいすむ
 - (株)ユミタライフサポートサービス アパマンショップ会津若松店（□）
 - エイブルネットワーク会津若松店（□）
