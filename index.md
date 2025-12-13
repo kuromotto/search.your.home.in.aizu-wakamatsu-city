@@ -1,3 +1,6 @@
+＃　注意事項
+[注意事項](注意事項.md)
+
 # リンク集
 
 ## 創明寮入居者募集情報
@@ -18,10 +21,12 @@
 （□）：会津若松駅近くの店
 
 ### 不動産取引業者（学校の紹介資料に記載あり）
-- [ササ企画](https://r.goope.jp/sasakikaku21/)：一級建築士、73歳。学生アパート、ブルーベリージャム販売
-- [有限会社ピアホーム](http://www.piahome.co.jp/)
-- ピタットハウス会津店
-- [(株)不動産信託リサーチ](https://www.fudousan-sintakuresearch.co.jp/rent/search)（□）
+- [ササ企画](https://r.goope.jp/sasakikaku21/)：（5）一級建築士、73歳。学生アパート、ブルーベリージャム販売
+- [順風舎](https://www.athome.co.jp/ahsd/junpusya.html)（2）
+- [有限会社ピアホーム](http://www.piahome.co.jp/)　（8）
+- [ピタットハウス会津店](https://www.pitat.com/shopDetail/aizu.html?gad_source=1&gad_campaignid=1049002231&gbraid=0AAAAAD5jzcRca4gueN7Ari8ecgOiSSjzq&gclid=Cj0KCQiAuvTJBhCwARIsAL6DemiMn4n0ohrWPq9iIEFZS5IaysyjR9nz3MLK6f4ERcO3BFb8wSNarIIaAkQIEALw_wcB)
+  - 年末年始休日：12/29〜1/4
+- [(株)不動産信託リサーチ](https://www.fudousan-sintakuresearch.co.jp/rent/search)（30+）（□）
 - (有)あゆみ産業
 - (有)佐賀工務所
 - (株)堀内不動産
@@ -31,6 +36,7 @@
 - レントライフ会津若松店
 - 協和不動産(株)
 - ツルカメ建設(株)
+- [会津土地建物（ハウスメイトネットワーク）会津土地建物]（https://www.aizutochitatemono.co.jp/)（30+）
 - [会津土地建物(株)](https://www.athome.co.jp/ahsd/aizutochitatemono.html)（□）
 - (株)あいすむ
 - (株)ユミタライフサポートサービス アパマンショップ会津若松店（□）
