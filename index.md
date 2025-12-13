@@ -50,3 +50,4 @@
   
 ## リンク集
 - [寮・アパート | 大学公式](https://u-aizu.ac.jp/campus/apartment/)
+- [Google Maps アパート・マンション・下宿の地図](https://www.google.com/maps/d/u/0/edit?mid=1DAw1VMV0eup2bansBAew6SWQCM6Fr8g&ll=37.51657097790388%2C139.93562501416682&z=15)
