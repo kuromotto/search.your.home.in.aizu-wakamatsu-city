@@ -35,20 +35,23 @@
 - [ピタットハウス会津店](https://www.pitat.com/shopDetail/aizu.html?gad_source=1&gad_campaignid=1049002231&gbraid=0AAAAAD5jzcRca4gueN7Ari8ecgOiSSjzq&gclid=Cj0KCQiAuvTJBhCwARIsAL6DemiMn4n0ohrWPq9iIEFZS5IaysyjR9nz3MLK6f4ERcO3BFb8wSNarIIaAkQIEALw_wcB)
   - 年末年始休日：12/29〜1/4
 - [(株)不動産信託リサーチ](https://www.fudousan-sintakuresearch.co.jp/rent/search)（30+）（□）
-- (有)あゆみ産業
-- (有)佐賀工務所
-- (株)堀内不動産
+- [(有)あゆみ産業](https://ayumi-sangyo.jp/)
+  - 物件あまり多くないがWebページで参照できる物件は悪くなさそう。
+- [(有)佐賀工務所](https://www.athome.co.jp/ahsd/sagakomusho.html)
+  - 会津大学　会津短期大学の学生さん向けアパート中心に取り扱っております。
+- [(株)堀内不動産](https://horiuchi-aizu.co.jp/)
 - [(株)ワハハ不動産](https://www.athome.co.jp/ahsd/wahahafudosan.html)
-- ワカガス保険不動産(株)
-- (有)会津地産
-- レントライフ会津若松店
-- 協和不動産(株)
-- ツルカメ建設(株)
+- [ワカガス保険不動産(株)](https://www.wg-hf.com/)
+- [(有)会津地産](https://www.athome.co.jp/ahsd/yumita-aizu.html)
+  - Webぺーじ無し
+- [レントライフ会津若松店](https://www.rent-aizuwakamatsu.com/)
+- [協和不動産(株)](https://www.kyowafudosan.com/) ★3.8
+- [ツルカメ建設(株)](https://tsurukame-construction.co.jp/) 物件少なめ?
 - [会津土地建物（ハウスメイトネットワーク）会津土地建物](https://www.aizutochitatemono.co.jp/)（30+）
   - 定休日：日曜・祝日・第2第3土曜 年末年始・GW・夏季 
 - [会津土地建物(株) アットホーム系列](https://www.athome.co.jp/ahsd/aizutochitatemono.html)（□）
-- (株)あいすむ
-- (株)ユミタライフサポートサービス アパマンショップ会津若松店（□）
+- [(株)あいすむ](https://ai-sumu.com/)
+- [(株)ユミタライフサポートサービス アパマンショップ会津若松店](https://www.athome.co.jp/ahsd/yumita-aizu.html)（□）
 - [エイブルネットワーク会津若松店](https://www.able.co.jp/fukushima/area/07202/list/?utm_source=google&utm_medium=cpc&utm_campaign=g_shimeiregion&utm_term=GB28&utm_content=google_paidsearch_able_shimeiregion_01_0033126&gad_source=1&gad_campaignid=21316588785&gbraid=0AAAAADhfLcL-vS3MTfvsgzi8_4LvYRXrt&gclid=Cj0KCQiAuvTJBhCwARIsAL6Demiud0Ohi9DvTt-861lR7H0H0ctiqdYBiXuEWV11tUT7v_05jzkhmMYaAlLnEALw_wcB)（20+）（□）
   - 年末年始休日：12/27〜（年初がいつまでかは記載なし）
   - 訪問予約フォームあり
@@ -57,9 +60,9 @@
   - 予約フォームあり
 
 ### 不動産取引業者（学校の紹介資料に記載なし）
-- いい部屋ネット会津駅前店（□）
+- [いい部屋ネット会津駅前店](https://www.eheya.net/shop/238000/)（□）
   - 年末年始休日：12/22～1/3
-- レオパレスパートナーズ会津店（□）
+- [レオパレスパートナーズ会津店](https://www.leopalace21.com/search/chintai/line?prefectureCode=07&lineCode=130)（□）
   
 ## リンク集
 - [寮・アパート | 大学公式](https://u-aizu.ac.jp/campus/apartment/)
