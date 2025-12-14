@@ -44,7 +44,7 @@
 - [エイブルネットワーク会津若松店](https://www.able.co.jp/fukushima/area/07202/list/?utm_source=google&utm_medium=cpc&utm_campaign=g_shimeiregion&utm_term=GB28&utm_content=google_paidsearch_able_shimeiregion_01_0033126&gad_source=1&gad_campaignid=21316588785&gbraid=0AAAAADhfLcL-vS3MTfvsgzi8_4LvYRXrt&gclid=Cj0KCQiAuvTJBhCwARIsAL6Demiud0Ohi9DvTt-861lR7H0H0ctiqdYBiXuEWV11tUT7v_05jzkhmMYaAlLnEALw_wcB)（20+）（□）
   - 年末年始休日：12/27〜（年初がいつまでかは記載なし）
   - 訪問予約フォームあり
-- [浅沼産業(株)](https://www.asa1.co.jp/)
+- [浅沼産業(株)](https://www.asa1.co.jp/) **ネット上の口コミが異常に悪い**
   - 年末年始休日：12/30〜1/3
   - 予約フォームあり
 
