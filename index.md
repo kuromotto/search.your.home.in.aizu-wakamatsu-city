@@ -11,6 +11,14 @@
 - 応募締切：2025/12/26 (金) 必着 （郵送）
 - 選考結果発表：2026/1/9 (金) 予定
 
+### ネット上の情報
+
+- [最先端は会津にあり！福島県『会津大学』と学寮「創明寮」での魅力満載の学生生活について聞いてきました。| dorm](https://daigakuryo.com/news/13135)
+- [会津大学の学生寮・創明寮のすすめ | Hatena Blog](https://yutashx.hatenablog.com/entry/2020/03/08/190101)
+- [なぜ会津大学創明寮に住んではいけないか](https://noshinn.hatenablog.com/entry/2024/04/26/194450)
+- [現在高校三年生の会津大学入学希望者です。創明寮という学生寮があるそうですが、定員が20名しかありません。| Yahoo知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10230530845)
+
+
 ## 大学周辺の住まい情報
 - [2026年度 住まい情報（アパート・下宿・間貸・シェアハウス一覧 PDF）](https://u-aizu.ac.jp/campus/apartment/#:~:text=2026%E5%B9%B4%E5%BA%A6%20%E4%BD%8F%E3%81%BE%E3%81%84%E6%83%85%E5%A0%B1%EF%BC%88%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%BB%E4%B8%8B%E5%AE%BF%E3%83%BB%E9%96%93%E8%B2%B8%E3%83%BB%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%8F%E3%82%A6%E3%82%B9%E4%B8%80%E8%A6%A7%EF%BC%89)
 
