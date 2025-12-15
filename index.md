@@ -43,25 +43,31 @@
 - [(株)ワハハ不動産](https://www.athome.co.jp/ahsd/wahahafudosan.html)
 - [ワカガス保険不動産(株)](https://www.wg-hf.com/)
 - [(有)会津地産](https://www.athome.co.jp/ahsd/yumita-aizu.html)
-  - Webぺーじ無し
+  - Webページ無し
 - [レントライフ会津若松店](https://www.rent-aizuwakamatsu.com/)
 - [協和不動産(株)](https://www.kyowafudosan.com/) ★3.8
+  - 年末年始休日：12/27〜1/4
+  - [場所](https://maps.app.goo.gl/pRStDfzJGt5NEw9N9)
 - [ツルカメ建設(株)](https://tsurukame-construction.co.jp/) 物件少なめ?
 - [会津土地建物（ハウスメイトネットワーク）会津土地建物](https://www.aizutochitatemono.co.jp/)（30+）
   - 定休日：日曜・祝日・第2第3土曜 年末年始・GW・夏季 
 - [会津土地建物(株) アットホーム系列](https://www.athome.co.jp/ahsd/aizutochitatemono.html)（□）
 - [(株)あいすむ](https://ai-sumu.com/)
 - [(株)ユミタライフサポートサービス アパマンショップ会津若松店](https://www.athome.co.jp/ahsd/yumita-aizu.html)（□）
+  - 店の中や車の中がタバコ臭いらしい
 - [エイブルネットワーク会津若松店](https://www.able.co.jp/fukushima/area/07202/list/?utm_source=google&utm_medium=cpc&utm_campaign=g_shimeiregion&utm_term=GB28&utm_content=google_paidsearch_able_shimeiregion_01_0033126&gad_source=1&gad_campaignid=21316588785&gbraid=0AAAAADhfLcL-vS3MTfvsgzi8_4LvYRXrt&gclid=Cj0KCQiAuvTJBhCwARIsAL6Demiud0Ohi9DvTt-861lR7H0H0ctiqdYBiXuEWV11tUT7v_05jzkhmMYaAlLnEALw_wcB)（20+）（□）
   - 年末年始休日：12/27〜（年初がいつまでかは記載なし）
   - 訪問予約フォームあり
 - [浅沼産業(株)](https://www.asa1.co.jp/) **ネット上の口コミが異常に悪い**
   - 年末年始休日：12/30〜1/3
   - 予約フォームあり
+- [UKエステート](https://uk-kigyogroup.com/)
+- [シゲキ]()
 
 ### 不動産取引業者（学校の紹介資料に記載なし）
 - [いい部屋ネット会津駅前店](https://www.eheya.net/shop/238000/)（□）
   - 年末年始休日：12/22～1/3
+  - [場所]
 - [レオパレスパートナーズ会津店](https://www.leopalace21.com/search/chintai/line?prefectureCode=07&lineCode=130)（□）
   
 ## リンク集
